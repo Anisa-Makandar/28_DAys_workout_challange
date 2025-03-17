@@ -236,6 +236,7 @@ import 'package:health_gym_project_altamash/favourites_bloc/favourites_event.dar
 import 'package:health_gym_project_altamash/screens/UTILS/appcolors.dart';
 import 'package:health_gym_project_altamash/screens/UTILS/textdecoration.dart';
 import 'package:health_gym_project_altamash/screens/create_plan_screen1.dart';
+import 'package:health_gym_project_altamash/screens/history_screen.dart';
 import 'package:health_gym_project_altamash/screens/menu_bar_screen.dart';
 import 'package:health_gym_project_altamash/screens/notification_screen.dart';
 import 'package:hive/hive.dart';
@@ -999,7 +1000,7 @@ class _DashboardScreenState extends State<DashboardScreen>
                           // MaterialPageRoute(
                           //     builder: (context) => CreatePlanScreenFirst()),
                           MaterialPageRoute(
-                              builder: (context) => NotificationScreen()),
+                              builder: (context) => ActivityHistoryPage()),
                         );
                       } else {
                         print("Button Clicked: $buttonText");
