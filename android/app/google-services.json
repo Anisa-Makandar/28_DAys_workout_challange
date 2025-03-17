@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850807793037",
+    "project_id": "daysfitnesschallenge-6c73a",
+    "storage_bucket": "daysfitnesschallenge-6c73a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850807793037:android:42c0b320a0b2127fe7c9c4",
+        "android_client_info": {
+          "package_name": "com.example.health_gym_project_altamash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUSMleXaJ5CDMqFON0g13ByEG3IwF_wMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
